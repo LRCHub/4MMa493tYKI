@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "空の森で",
+  "base_artist": "川田まみ",
+  "createdAt": "2026-03-15T15:50:33.957022Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空の森で",
+      "artist": "Mami Kawada",
+      "has_synced": true,
+      "path": "select/01_空の森で_Mami_Kawada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "空の森で",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/02_空の森で_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "空の森で",
+      "artist": "I've",
+      "has_synced": true,
+      "path": "select/03_空の森で_I've.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sora No Mori De (空の森で)",
+      "artist": "Mami Kawada",
+      "has_synced": true,
+      "path": "select/04_Sora_No_Mori_De_(空の森で)_Mami_Kawada.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "空の森で(川田まみ)",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/05_空の森で(川田まみ)_川田まみ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空の森で",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_01_空の森で_川田_まみ.txt"
+    }
+  ]
+}
